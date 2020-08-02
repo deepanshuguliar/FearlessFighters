@@ -1,0 +1,97 @@
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\ApplicationInsights.config
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\csc.exe
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Collections.Immutable.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Reflection.Metadata.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\vbc.exe
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe.config
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll.config
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.pdb
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.csprojResolveAssemblyReference.cache
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.dll
+D:\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.pdb
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\ApplicationInsights.config
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\csc.exe
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\vbc.exe
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll.config
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.pdb
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.csprojResolveAssemblyReference.cache
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.dll
+D:\MyProjects\DesKTOPPC\RND\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.pdb
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\ApplicationInsights.config
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\csc.exe
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Collections.Immutable.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Reflection.Metadata.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\vbc.exe
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe.config
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll.config
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.pdb
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.dll
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.pdb
+D:\Neeraj Project\Leologic\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.csprojResolveAssemblyReference.cache
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\ApplicationInsights.config
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\csc.exe
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\vbc.exe
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll.config
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.pdb
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.pdb
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndia\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.csprojResolveAssemblyReference.cache
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\ApplicationInsights.config
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\csc.exe
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\vbc.exe
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll.config
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\bin\AirportAuthorityofIndia.pdb
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.dll
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.pdb
+D:\MyProjects\AirportAuthorityofIndia\AirportAuthorityofIndiabkp\AirportAuthorityofIndia\obj\Debug\AirportAuthorityofIndia.csprojResolveAssemblyReference.cache
